@@ -20,6 +20,7 @@ power outside the virtual world for their players.
 - The Vendor contract: This contracts is in charge of make the ICO of Mentora token.
 
 Those contracts are deployed by the WEB3 Developer team on Polygon Network:
+
 MWP Token: https://polygonscan.com/address/0xe0f13a9eaec9d5b9817420fd2ea76f00734dfba5
 
 Vendor Contract: https://polygonscan.com/address/0x3259cf7eee9090099394f2cbd417d19c426f776e
